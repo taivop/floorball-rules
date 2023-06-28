@@ -6,7 +6,7 @@ Structure of the final data:
 * `rules.json` -- main body text of rules.
 * `glossary.json` -- main terms used in the rules
 * `signs.json` -- metadata of hand signs
-* `figures/signs*.png` -- illustrations of hand signs
+* `figures/signs/*.png` -- illustrations of hand signs
 * `figures/{rink,goalkeeper_area}.png` -- rink diagrams present in the official rules
 
 You can use this however you want (see LICENSE.md) but I would appreciate a reference to this repository.
