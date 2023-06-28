@@ -1,0 +1,70 @@
+801 Stoppage of game/Time out
+The fingertips held perpendicluar to the palm of the hand
+802 Face-off
+The forearms held horizontally, the palms of the hands downwards
+803 Hit-in
+The arm held horizontally in the advantage direction, the palm of the hand downwards
+804 Free-hit
+The arm held horizontally in the advantage direction, the palm of the hand downwards
+805 Advantage
+The arm held in the advantage direction, the palm of the hand upwards
+806 Penalty shot
+The arms held above the head and crossed at the wrist, with the fists closed
+807 Delayed penalty/Delayed penalty shot
+The arm held vertically, the palm of the hand forwards
+808 Bench penalty/Personal penalty
+The arm held vertically, minor penalty shown with two fingers and major penalty with five, 10 minutes with a clenched hand.
+809 Match penalty
+The arm held vertically with the red card displayed
+810 Goal
+The arm in the direction of first the goal and then the centre spot
+901 Hit
+One arm held horizontally in the advantage direction with the palm facing down, with the other arm making a single blow with the hand to the extended forearm
+902 Locking an opponent’s stick One arm held horizontally in
+the advantage direction with the palm facing down, with the other arm pushing the extended forearm in a single downwards motion
+903 Lifting an opponent’s stick
+One arm held horizontally in the advantage direction with the palm facing down, with the other arm pushing the extended forearm in a single upwards motion
+904 High stick
+Imitating the holding of a stick
+905 Placing stick, foot or leg between an opponent’s leg
+One leg slightly raised and one arm indicating a movement beneath the uplifted leg
+906 Hooking
+The forearms held horizontally, imitating the holding of a stick and the motion of pulling the stick
+907 Incorrect pushing
+Can also be performed with only one hand
+908 Backing into an opponent
+The hands cupped, the palms of the hands upwards, the forearms pulled backwards
+909 Roughing
+The hands met in two fists at chest level with the back of the hands facing upwards
+910 Holding
+One arm held horizontally in the advantage direction with the palm facing down, with the other arm gripping the wrist of the extended arm
+911 Interference
+Both arms crossed in front of the chest with palms facing the body
+912 Incorrect kick
+The foot turned outward, on a level with the ankle and with a kicking motion
+913 High kick
+The foot turned outward, on a level with the knee
+914 Entering the goalkeeper area
+Both arms extended above the head with fingertips meeting to create a triangle shape
+915 Incorrect distance
+The forearms held vertically at shoulder width apart
+916 Incorrect jump
+The palms of the hands held out facing upwards with an upwards action
+917 Incorrect throw-out
+The forearms held horizontally, the palms of the hands facing each other
+918 Incorret hit-in/Incorrect free-hit
+The palm of the hand upwards, in the direction of the original free-hit, then moved as shown
+919 Playing the ball lying down
+The palm of the hand downwards with a left and right motion
+920 Hands
+The palm of the hand facing forward
+921 Header
+The palm of the hand to the forehead
+922 Incorrect substitution
+The forearms rotating in a rolling action
+923 Repeated offences
+One arm held horizontally in the advantage direction with the palm facing down, with the other arm making three blows with the hand to the extended forearm
+924 Delaying play
+One arm extended above the head with a single finger pointing upwards and the lower arm moving in a circular motion
+
+  

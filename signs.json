@@ -1,0 +1,172 @@
+{
+    "801": {
+        "code": 801,
+        "name": "Stoppage of game/Time out",
+        "description": "The fingertips held perpendicluar to the palm of the hand"
+    },
+    "802": {
+        "code": 802,
+        "name": "Face-off",
+        "description": "The forearms held horizontally, the palms of the hands downwards"
+    },
+    "803": {
+        "code": 803,
+        "name": "Hit-in",
+        "description": "The arm held horizontally in the advantage direction, the palm of the hand downwards"
+    },
+    "804": {
+        "code": 804,
+        "name": "Free-hit",
+        "description": "The arm held horizontally in the advantage direction, the palm of the hand downwards"
+    },
+    "805": {
+        "code": 805,
+        "name": "Advantage",
+        "description": "The arm held in the advantage direction, the palm of the hand upwards"
+    },
+    "806": {
+        "code": 806,
+        "name": "Penalty shot",
+        "description": "The arms held above the head and crossed at the wrist, with the fists closed"
+    },
+    "807": {
+        "code": 807,
+        "name": "Delayed penalty/Delayed penalty shot",
+        "description": "The arm held vertically, the palm of the hand forwards"
+    },
+    "808": {
+        "code": 808,
+        "name": "Bench penalty/Personal penalty",
+        "description": "The arm held vertically, minor penalty shown with two fingers and major penalty with five, 10 minutes with a clenched hand."
+    },
+    "809": {
+        "code": 809,
+        "name": "Match penalty",
+        "description": "The arm held vertically with the red card displayed"
+    },
+    "810": {
+        "code": 810,
+        "name": "Goal",
+        "description": "The arm in the direction of first the goal and then the centre spot"
+    },
+    "901": {
+        "code": 901,
+        "name": "Hit",
+        "description": "One arm held horizontally in the advantage direction with the palm facing down, with the other arm making a single blow with the hand to the extended forearm"
+    },
+    "902": {
+        "code": 902,
+        "name": "Locking an opponent\u2019s stick One arm held horizontally in",
+        "description": "the advantage direction with the palm facing down, with the other arm pushing the extended forearm in a single downwards motion"
+    },
+    "903": {
+        "code": 903,
+        "name": "Lifting an opponent\u2019s stick",
+        "description": "One arm held horizontally in the advantage direction with the palm facing down, with the other arm pushing the extended forearm in a single upwards motion"
+    },
+    "904": {
+        "code": 904,
+        "name": "High stick",
+        "description": "Imitating the holding of a stick"
+    },
+    "905": {
+        "code": 905,
+        "name": "Placing stick, foot or leg between an opponent\u2019s leg",
+        "description": "One leg slightly raised and one arm indicating a movement beneath the uplifted leg"
+    },
+    "906": {
+        "code": 906,
+        "name": "Hooking",
+        "description": "The forearms held horizontally, imitating the holding of a stick and the motion of pulling the stick"
+    },
+    "907": {
+        "code": 907,
+        "name": "Incorrect pushing",
+        "description": "Can also be performed with only one hand"
+    },
+    "908": {
+        "code": 908,
+        "name": "Backing into an opponent",
+        "description": "The hands cupped, the palms of the hands upwards, the forearms pulled backwards"
+    },
+    "909": {
+        "code": 909,
+        "name": "Roughing",
+        "description": "The hands met in two fists at chest level with the back of the hands facing upwards"
+    },
+    "910": {
+        "code": 910,
+        "name": "Holding",
+        "description": "One arm held horizontally in the advantage direction with the palm facing down, with the other arm gripping the wrist of the extended arm"
+    },
+    "911": {
+        "code": 911,
+        "name": "Interference",
+        "description": "Both arms crossed in front of the chest with palms facing the body"
+    },
+    "912": {
+        "code": 912,
+        "name": "Incorrect kick",
+        "description": "The foot turned outward, on a level with the ankle and with a kicking motion"
+    },
+    "913": {
+        "code": 913,
+        "name": "High kick",
+        "description": "The foot turned outward, on a level with the knee"
+    },
+    "914": {
+        "code": 914,
+        "name": "Entering the goalkeeper area",
+        "description": "Both arms extended above the head with fingertips meeting to create a triangle shape"
+    },
+    "915": {
+        "code": 915,
+        "name": "Incorrect distance",
+        "description": "The forearms held vertically at shoulder width apart"
+    },
+    "916": {
+        "code": 916,
+        "name": "Incorrect jump",
+        "description": "The palms of the hands held out facing upwards with an upwards action"
+    },
+    "917": {
+        "code": 917,
+        "name": "Incorrect throw-out",
+        "description": "The forearms held horizontally, the palms of the hands facing each other"
+    },
+    "918": {
+        "code": 918,
+        "name": "Incorret hit-in/Incorrect free-hit",
+        "description": "The palm of the hand upwards, in the direction of the original free-hit, then moved as shown"
+    },
+    "919": {
+        "code": 919,
+        "name": "Playing the ball lying down",
+        "description": "The palm of the hand downwards with a left and right motion"
+    },
+    "920": {
+        "code": 920,
+        "name": "Hands",
+        "description": "The palm of the hand facing forward"
+    },
+    "921": {
+        "code": 921,
+        "name": "Header",
+        "description": "The palm of the hand to the forehead"
+    },
+    "922": {
+        "code": 922,
+        "name": "Incorrect substitution",
+        "description": "The forearms rotating in a rolling action"
+    },
+    "923": {
+        "code": 923,
+        "name": "Repeated offences",
+        "description": "One arm held horizontally in the advantage direction with the palm facing down, with the other arm making three blows with the hand to the extended forearm"
+    },
+    "924": {
+        "code": 924,
+        "name": "Delaying play",
+        "description": "One arm extended above the head with a single finger pointing upwards and the lower arm moving in a circular motion"
+    }
+}

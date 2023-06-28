@@ -1,0 +1,465 @@
+1 RINK
+101 Dimensions of the rink
+1) The rink shall be 40 m x 20 m and enclosed by a board with rounded corners, which is approved by the IFF and marked accordingly.
+The rink shall be rectangular, the measures indicating length x width. The smallest rink allowed is 36 m x 18 m.
+102 Markings on the rink
+1) All markings shall be made with lines, 4-5 cm in width, in a clearly visible colour.
+2) A centre line and a centre spot shall be marked.
+The centre line shall be parallel to the short sides of the rink and divide the rink into two halves of equal size.
+3) Goal creases measuring 4 m x 5 m shall be marked 2.85 m from the short sides of the rink.
+The goal creases shall be rectangular, and the measures indicate length x width including the lines. The goal creases shall be centred in relation to the long sides of the rink.
+4) Goalkeeper areas measuring 1 m x 2.5 m shall be marked 0.65 m in front of the rear limits of the goal creases.
+The goalkeeper areas shall be rectangular, and the measures indicate length x width including the lines. The goalkeeper areas shall be centred in relation to the long sides of the rink.
+5) The rear lines of the goalkeeper areas shall also serve as goal lines. Marks for the goal posts shall be made on the rear lines of the goalkeeper areas, so that the distance between the marks is 1.6 m.
+The goal lines shall be centred in relation to the long sides of the rink. The marks for the goal posts shall be made either with gaps in the rear lines of the goalkeeper area or with short lines, perpendicular to the rear lines of the goalkeeper area.
+6) Face-off dots shall be marked on the centre line and on the imaginary extensions of the goal lines, 1.5 m from the long sides of the rink not exceeding 30 cm in diameter.
+The face-off dots may be marked as crosses. The dots on the centre line may be imaginary.
+103 Goal cages
+1) Goal cages, approved by the IFF and marked accordingly, shall be placed with the posts on the prescribed marks.
+The openings of the goal cages shall face the centre spot.
+104 Substitution zones
+1) Substitution zones with a length of 10 m shall be marked along one of the long sides of the rink, 5 m from the centre line, and include players’ benches.
+The substitution zones shall be marked on both sides of the board. The width of the substitution zones shall not exceed 3 m, measured from the board. The players’ benches shall be placed at an appropriate distance from the board and have room for nineteen persons each.The substitution zone can also be marked on top of the rink, using a different colour.
+105 Secretariat and penalty benches
+1) A secretariat with penalty benches shall be placed opposite the substitution zones, by the centre line.
+The secretariat and the penalty benches shall be placed at an appropriate distance from the board.
+There shall be separate penalty benches for each team, placed on each side of the secretariat. The penalty benches shall have room for at least two persons each. The penalty bench zones with a length of 2 m and placed at least 1 m from the centre line shall be marked and visible on both sides of the board.
+Exemption for the placing of the secretariat and the penalty benches may be given by the administrating authority. If this is the case, there shall be left a minimum of 2 m space in between the penalty bench and the substitution benches.
+106 Inspection of the rink
+1) The referees shall, at an early stage before the match, inspect the rink and ensure that defects are corrected.
+All defects that can’t be corrected shall be reported. The organiser is responsible for correcting defects and for keeping the board in a proper condition during the match. All dangerous objects shall be removed or padded.
+107 Ball
+1) The ball shall be approved by the IFF and marked accordingly.
+The ball surface shall be single coloured in a non-fluorescent colour. Neither the inside colour of the ball can be fluorescent.
+201 Regular game time
+1) Regular game time shall be 3 x 20 minutes with two 10-minute intermissions, when the teams shall change ends.
+Exemption for shorter game time however not less than 2 x 15 minutes and/or shorter/longer intermissions may be given by the administrating authority. The game clock shall when possible count from 00:00 and up. When changing ends, the teams shall also change substitution zones. The home team shall choose ends at an early stage before the match. Every new period shall start with a face-off at the centre spot.
+At the end of every period the secretariat is responsible for providing a siren or other suitable sound device unless this is automatic.
+A period or a match is over as soon as the final signal starts sounding. The timing of the intermission shall start immediately at the end of the period. The teams are responsible for being back on the rink in time to resume play after the intermission.
+If the referees consider one end of the rink to be better, the teams shall change ends after half the third period, but this must be decided before the start of the third period. If such a changing of ends takes place, play shall be resumed with a face-off at the centre spot.
+2) Game time shall be effective.
+Effective game time implies that time shall be stopped whenever play is interrupted by the referees’ whistle and started again when the ball is played.
+At unnatural game interruptions a triple signal shall be used. The referees decide what shall be regarded as an unnatural interruption, but this always includes: a damaged ball, the board coming apart, injuries, measuring of equipment, unauthorised persons or objects on the rink, the lights going out either completely or partly, and the final signal being sounded by mistake. Should the board come apart play shall not be interrupted until the ball is near the place in question. In case of injuries play shall be interrupted only on suspicion of a serious injury or if the injured player directly affects play.
+An administrating authority may grant an exemption to use noneffective time, in which case game time shall only be stopped in connection with a goal, a penalty, a penalty shot, a time out or at the referees’ triple signal at an unnatural interruption. The last 3 minutes of regular game time shall always be effective.
+Game time shall be stopped during a penalty shot.
+202 Time out
+1) During the match each team shall have the right to request one time out, which shall be carried out, and be marked by a triple signal, as soon as play is interrupted.
+A time out may be requested at any time, including in connection with goals and penalty shots, penalty shots after extra time excluded, but only by the team captain or a member of the team staff.
+A time out requested during an interruption shall be carried out immediately, but if the referees consider that this negatively affects the situation for the opposing team, the time out shall be carried out at the next interruption.
+A requested time out shall always be carried out, except after a goal, when the team may withdraw the request or when the next interruption is the end of the period, which automatically cancels the time-out. This also applies to the possible changing of the ends in the middle of the period. A time out starts at the referees’ additional signal when the teams are at their substitution zones and the referees at the secretariat. Another additional signal after 30 seconds marks the end of the time out.
+After a time out, play shall be resumed according to what caused the interruption. A penalised player is not allowed to participate in a time out.
+203 Extra time
+1) If a match that has to be decided ends with an even result
+10 minutes extra time shall be played until one team scores. Before extra time, the teams have the right to a 2-minute intermission, but no changing of ends shall take place. During extra time the same rules apply to starting and stopping time as during regular game time. Extra time is not divided into periods. Penalty time remaining after regular game time shall continue during extra time.
+If the score after extra time is still equal, the match shall be decided by penalty shots.
+204 Penalty shots after extra time
+1) Five field players from each team shall take one penalty shot each. If the score after this is still equal, the same players shall take one penalty shot each until a decisive result is achieved. The penalty shots shall be taken alternately. The referees decide which goal to use and shall carry out a draw between the team captains. The winner decides which team will start taking the penalty shots. The team captain or a member of the team staff shall, in writing, inform the referees and the secretariat of the numbers of the players and the order in which they will take the penalty shots. The referees are responsible for ensuring that the penalty shots are taken in the exact order as noted by the team staff.
+As soon as a decisive result is achieved during the penalty shots, the match is over, and the winning team shall be considered to have won by one extra goal. During the regular penalty shots, a decisive result is considered to be achieved when a team is leading by a larger number of goals than the opposing team has remaining penalty shots. During the possible extra penalty shots, a decisive result is considered to be achieved when a team has scored one goal more than the opposing team and both teams have taken the same number of penalty shots. The extra penalty shots do not have to be taken in the same order as the regular penalty shots, but a player must not take a third penalty shot until all the noted players in the team have taken at least two, and so on.
+If one of the noted players incurs any penalty during the penalty shots, the team captain shall choose a field player, who is not already noted, to replace the player who has incurred the penalty.
+If a goalkeeper incurs any penalty during the penalty shots, they shall be replaced by the reserve goalkeeper. If a reserve goalkeeper is not available, the team has a maximum of 3 minutes to properly equip a field player, who is not already noted, but none of this time may be used for warming up. The new goalkeeper shall be marked in the match record, and the time of the change shall be noted.
+A team that is unable to note five field players shall only be allowed to take as many penalty shots as they have noted players. This is also valid during possible extra penalty shots.
+3 PARTICIPANTS 301 Players
+1) Each team is allowed to use a maximum of 20 players. These shall be noted in the match record.
+Players may be field players or goalkeepers. No other players than those noted in the match record are allowed to participate in the match or be in their own substitution zone.
+2) During play six players in each team, at the most, including only one goalkeeper or six field players only, may be on the rink simultaneously.
+For the referees to start a match, each team shall have at least five field players and a properly equipped goalkeeper, or the final score shall be 5-0 to the non-offending team.
+During play, each team must be able to play with at least four players, or the match shall be stopped, and the final score shall be 5-0 to the non-offending team, or the achieved result if this is more advantageous for the non-offending team.
+302 Substitution of players
+1) Substitution of players may take place at any time and an unlimited number of times during a match.
+All substitutions shall take place in the team’s own substitution zone. A player leaving the rink has to be on the way passing over the board before a substitute may enter the rink. An injured player leaving the rink outside their own substitution zone must not be replaced until play is interrupted. A bleeding player is not allowed to participate in the match until the bleeding is under control.
+303 Particular regulations for goalkeepers
+1) All goalkeepers shall be marked in the match record.
+The marking shall be made with a “G” in the margin. A player marked as goalkeeper is not allowed to participate as a field player, with a stick, during the same match. If a team due to injury or penalty has to replace the goalkeeper with a field player, they have a maximum of
+3 minutes to properly equip the substitute, but none of this time shall be used for warming up. The new goalkeeper shall be marked in the match record, and the time of the change shall be noted.
+2) If a goalkeeper entirely leaves the goal crease during play, they shall, until returning, be considered a field player, yet without a stick. This does not apply in connection with a throw-out. A goalkeeper is considered to have entirely left the goal crease when no part of their body touches the floor inside the goal crease. The goalkeeper is, however, allowed to jump within their own goal crease. The lines belong to the goal crease.
+304 Particular regulations for team captains
+1) Each team shall have a team captain, who shall be marked in the match record.
+The marking shall be made with a “C” in the margin. Change of the team captain shall only take place in case of injury, illness or match penalty, and has to be noted with time in the match record. A replaced team captain must not function again as team captain during the same match.
+2) Only the team captain is entitled to speak to the referees and is also obliged to assist them.
+When the team captain speaks to the referees, this shall be done according to set conditions. A penalised team captain loses the right to speak to the referees, unless addressed by them, and, except when the team staff requests a time out, the team has no possibility to communicate with the referees. If considered necessary by the referees, discussions shall be taken in the corridors and not in the rink and never inside the referees’ dressing room.
+305 Team staff
+1) Each team shall note, at the most, five members of the team staff in the match record.
+No other persons than those noted in the match record are allowed to be in their own substitution zone. With the exception of a time out, a member of the team staff shall not enter the rink without the referees’ permission. All coaching shall take place from the team’s own substitution zone where the team staff shall be situated during the match.
+Before the match, a member of the team staff should check the match record and ensure the team list is correct.
+After the start of the match no amendments shall be allowed except from possible corrections of incorrect numbering. Should a member of the team staff be recorded also as a player, they should always be considered a player in any uncertain situations regarding offences from their substitution zone.
+306 Referees
+1) A match shall be led and controlled by two equally authorised referees.
+The referees shall have the right to stop a match if there is an obvious risk that it can not be continued according to the rules.
+307 Secretariat
+1) A secretariat shall be in place.
+The secretariat shall be neutral and responsible for the match record, time keeping and possible speaker tasks.
+4 EQUIPMENT 401 The players’ clothing
+1) All field players shall wear uniforms consisting of jerseys, shorts and socks.
+All field players in a team shall wear the exact same uniform. A team’s uniform may have any colour combination, but the jerseys must not be grey. If the referees consider that the teams can not be distinguished by their uniforms, the visiting team is obliged to change. The socks shall be mutually uniform and, if decided by the administrating authority, distinguishable between the teams.
+2) All goalkeepers shall be dressed in jerseys and long trousers.
+3) All jerseys shall be numbered.
+A team’s jerseys shall be numbered with different whole numbers in clearly visible Arabic figures on the back and on the chest. The back figures shall be at least 200 mm high and the chest figures at least 70 mm high. The jerseys may carry any number between 1 and 99 inclusive, but 1 is not allowed for field players.
+If an incorrectly numbered player participates in the match, the match record shall be corrected, and the offence shall be reported to the administrating authority. If a player is forced to change jersey during the match, the new number shall be noted in the match record.
+4) All players shall wear shoes.
+The shoes shall be of an indoor sports model. Socks outside the shoes are not allowed. If a player loses one or both shoes during play, they may continue playing until the next interruption.
+402 The referees’ clothing
+1) The referees shall wear jerseys, black shorts and black knee socks.
+The referees shall wear the same colour combination on their uniform.
+403 Particular goalkeeper’s equipment
+1) The goalkeeper is not allowed to use a stick.
+2) The goalkeeper shall wear a face mask, which is in accordance with the IFF Material Regulations and marked accordingly. This only includes on the rink during play. All tampering with the face mask, except painting, is prohibited.
+3) The goalkeeper may use any kind of protective equipment, but this shall not include parts intended to cover the goal.
+Helmet and thin gloves are allowed. All forms of adhesives or friction checking substances are prohibited. No objects must be kept on or in the goal cage. The goalkeeper may not use any kind of protective equipment which covers more than the body of the goalkeeper, for example shoulder pads.
+404 Particular team captain’s equipment
+1) The team captain shall wear an armband.
+The armband shall be worn on the upper arm and be clearly visible. Tape is not allowed as an armband.
+405 Personal and protective equipment
+1) A player shall not wear personal equipment which may cause injury.
+Personal equipment includes protective and medical equipment, protective goggles, watches, earrings, etc. The referees decide what shall be considered dangerous. All protective equipment shall, if possible, be worn underneath the clothing.
+Unless otherwise defined by National Association uniform regulations, visible parts of undershirts, undershorts, tights and compression wear shall be of the same colour as the main colour of the match uniform shirt or the shorts. For leg wear black is also allowed. With the exception of elastic headbands without knots, no headgear may be worn. All forms of long tights are prohibited for field players. Exceptions shall be allowed only by the administrating authority upon written request.
+2) If a player is wearing protective goggles, these shall be in accordance with the IFF Material Regulations and marked accordingly.
+All tampering with the goggles is prohibited. If a player loses the goggles during play, they may continue playing until the next interruption.
+406 Stick
+1) The stick shall be approved by the IFF and marked accordingly.
+All tampering with the shaft, except shortening, is prohibited. The shaft may be strapped above the grip mark, but no official marks may be covered.
+2) The blade shall not be sharp, and its hook shall not exceed 30 mm.
+All tampering with the blade, except bending, is prohibited. The hook shall be measured as the distance between the highest point of the blade’s inner side and an even surface on which the stick is lying. Changing the blade is allowed if the blade is approved with the shaft and being of the same brand, but the new blade shall not be weakened. Taping the joint between the blade and the shaft is allowed, but no more than 10 mm of the visible part of the blade shall be covered.
+407 The referees’ equipment
+1) The referees shall be equipped with plastic medium sized whistles, measuring equipment and red cards.
+Exemption for other types of whistles may be given by the administrating authority.
+408 The secretariat’s equipment
+1) The secretariat shall have all the equipment necessary for their responsibilities.
+409 Control of equipment
+1) The referees shall decide about controlling and measuring all equipment.
+Inspection shall take place before and during the match. Incorrect equipment, including defective sticks, measuring the stick’s hook excluded, discovered before or during the match shall be corrected by the player concerned, who after this may start/continue the match. Offences concerning players’ uniforms shall not lead to more than one penalty per team per per match, however, all incorrect equipment shall be reported.
+No other players than the team captains and the player with the equipment being controlled may be at the secretariat during the control of equipment. After control of equipment, play shall be resumed according to what caused the interruption.
+2) Measuring of a hook, control of approval mark on a stick or face mask grill and control of a shaft/blade combination may be requested by the team captain.
+The team captain also has the right to point out to the referees other incorrectness in the opponents’ equipment, but in this case the referees decide whether or not to take action. Measuring and control of shaft/blade combination and control of approval mark on a stick or face mask grill may be requested at any time but shall not be carried out until play is interrupted. If control is requested during an interruption, it shall be carried out immediately, including in connection with goals and penalty shots, unless, in the referees’ opinion, it negatively affects the situation for the opposing team. In this case the control shall be carried out at the next interruption.
+The referees are obliged to check a hook or shaft/blade and control of approval mark on a stick or face mask grill at the team captain’s request, but only one control per team per interruption shall be allowed. No other players than the team captains and the player with the equipment being controlled may be at the secretariat during the control of equipment. After control of equipment, play shall be resumed according to what caused the interruption.
+5 FIXED SITUATIONS 501 General regulations for fixed situations
+1) When play has been interrupted, it shall be resumed with a fixed situation, according to what caused the interruption. Fixed situations are face-offs, hit-ins, free-hits and penalty shots.
+2) The referees shall use one signal, show prescribed signs and mark the place for the fixed situation. The ball may be played after the signal if it is not moving and is in the right position. The referees shall first show the consequence sign and then a possible offence sign. The offence sign shall only be used if considered necessary, however always in connection with penalties and penalty shots.
+If, in the referees’ opinion, play is not affected, the ball does not have to be entirely still or in exactly the right place at a hit-in or a free-hit.
+3) A fixed situation shall not be unreasonably delayed.
+The referees decide what shall be considered unreasonable delay. If a fixed situation is delayed, the referees shall if possible, notify the player before any action is taken.
+502 Face-off (802)
+1) At the start of a new period and to confirm a correctly scored goal, a face-off shall be taken at the centre spot.
+A goal scored during extra time, or from a penalty shot deciding the match, or after the end of a period, shall not be confirmed with a face-off. When a face-off is taken at the centre spot, each team shall be on their own side of the centre line.
+2) When play is interrupted and neither team can be awarded a hit-in, a free-hit or a penalty shot, play shall be resumed with a face-off.
+3) A face-off shall be taken at the nearest face-off dot, according to where the ball was at the interruption.
+4) All players, except those taking the face-off, shall immediately, without summons from the referees, take a position at least 3 m from the ball, sticks included.
+Before a face-off, it is the referees’ responsibility to check that the teams are ready and that all players have taken position.
+5) The ball shall be played with the stick and shall be taken by one field player from each team. The players shall be facing the opposing team’s short side and must not have physical contact before the face-off. The feet shall be placed perpendicular to the centre line. Each player shall have both feet at the same distance from the centre line. The sticks shall be held with a normal grip and with both hands above the grip mark. The blades shall be placed perpendicular to the centre line on either side of the ball, but without touching it.
+Normal grip implies the way the player holds the stick during play. The defending team’s player chooses on which side of the ball to place the stick. If the face-off is on the centre line, the visiting team’s player chooses. The ball shall be at the centre of the blades. In case of a dispute in connection with a substitution before a face-off is taken, the away team is obliged to carry out their substitution first.
+6) A face-off may go directly into the goal.
+503 Events leading to a face-off
+1) When the ball is damaged unintentionally.
+2) When the ball is not correctly playable.
+The referees shall, before interrupting play, give the players a reasonable opportunity to play the ball.
+3) When parts of the board have been separated and the ball comes near the place in question.
+4) When the goal cage is moved unintentionally and cannot be put back within a reasonable time.
+It is the goalkeeper’s responsibility to put the goal cage back as soon as this is considered possible.
+5) When a serious injury occurs, or an injured player directly affects play.
+The referees decide what shall be considered a serious injury, but as soon as this is suspected, play shall be interrupted immediately.
+6) When an unnatural situation occurs during play.
+The referees decide what shall be considered an unnatural situation, but this always includes, amongst others, unauthorised persons or objects on the rink, the lights going out either completely or partly, and the final signal being sounded by mistake, when a broken stick causes a dangerous situation or directly affects the play, or when a referee is hit by the ball and this has a significant effect on the play.
+7) When a goal is disallowed despite the fact that no offence leading to a free-hit has been committed.
+This includes when the ball goes into the goal without passing the goal line from the front.
+8) When a penalty shot does not result in a goal.
+This includes when a penalty shot is incorrectly performed.
+9) When the referees are unable to decide the direction of a hit-in or a free-hit.
+This includes when players from both teams commit offences simultaneously.
+10) When the referees consider their decision to be incorrect.
+11) When the non-offending team during a delayed penalty, in the referees’ opinion, is trying to waste time.
+The team should, if possible, be made aware of this before any actions are taken.
+504 Hit-in (803)
+1) When the ball leaves the rink a hit-in shall be awarded to the non-offending team.
+The offending team is considered to be the team whose player, or player’s equipment, last touched the ball before it left the rink. This also includes when a player, to remove the ball from the goal cage, hits the net without touching the ball.
+2) A hit-in shall be taken from where the ball leaves the rink, 1.5 m from the board, but never behind the imaginary extensions of the goal lines.
+If, in the referees’ opinion, play is not affected, the ball does not have to be entirely still or in exactly the right place. If a team gets an advantage from taking a hit-in closer to the board than 1,5 m, this shall be allowed. A hit-in behind the imaginary extension of the goal line shall be taken from the nearest face-off dot. When the ball touches the ceiling or objects above the rink, the hit-in shall be taken 1.5 m from the board at the same distance from the centre line.
+3) The opponents shall immediately, without summons from the referees, take a position at least 3 m from the ball, sticks included. The player taking the hit-in does not have to wait for the opponents to take position, but if the ball is played while the opponents are trying to take position in a correct way, no action shall be taken.
+4) The ball shall be played with the stick. It shall be hit, not dragged, flicked or lifted on the stick.
+5) The player taking the hit-in shall not touch the ball again before it has touched another player or another player’s equipment.
+6) A hit-in may go directly into the goal.
+505 Events leading to a hit-in
+1) When the ball passes the board or hits the ceiling or any other object above the rink.
+506 Free-hit (804)
+1) When an offence leading to a free-hit is committed, a free-hit shall be awarded to the non-offending team.
+With offences leading to a free-hit, the advantage rule shall be applied whenever possible.
+The advantage rule implies that if the non-offending team still controls the ball after an offence, they shall have the opportunity to go on playing if this gives them a greater advantage than a free-hit. If advantage is being played, and the game is interrupted because the non-offending team loses control of the ball, the resulting free-hit shall be placed where the last offence occurred.
+2) The free-hit shall be taken where the offence was committed, but never behind the imaginary extensions of the goal lines, or closer to the goalkeeper areas than 3.5 m.
+If, in the referees’ opinion, play is not affected, the ball does not have to be entirely still or in exactly the right place.
+A free-hit closer to the board than 1.5 m may be moved out to this distance.
+A free-hit behind the imaginary extension of the goal line shall be taken from the nearest face-off dot.
+A free-hit closer to the goalkeeper area than 3.5 m shall be moved out to the distance of 3.5 m from the outer line of the goalkeeper area along an imaginary line from the centre of the goal line through the place where the offence was committed, leaving 0.5 m for the wall and then 3 meters free space to the free-hit point. In this case the defending team shall always have the right to form a defence line immediately outside their goalkeeper area. If the attacking team prevents or obstructs this, a free-hit shall be awarded to the defending team. The attacking team is not obliged to wait for the defending team to form the defence line and has the right to place their players in front of the defence line.
+3) The opponents shall immediately, without summons from the referees, take a position at least 3 m from the ball, sticks included. The player taking the free-hit does not have to wait for the opponents to take position, but if the ball is played while the opponents are trying to take position in a correct way, no action shall be taken.
+4) The ball shall be played with the stick. It shall be hit, not dragged, flicked or lifted on the stick.
+5) The player taking the free-hit shall not touch the ball again before it has touched another player or another player’s equipment.
+6) A free-hit may go directly into the goal.
+507 Offences leading to a free-hit
+1) When a player hits, blocks, lifts, kicks an opponent’s stick or hits the opponent’s body with the possibility of reaching the ball. (901, 902, 903, 912)
+If the referees consider the player to have played the ball in an otherwise correct way before hitting the opponent’s stick or the opponent’s body, no action shall be taken.
+2) When a player holds an opponent or opponent’s stick. (910)
+3) When a field player raises the blade of the stick above waist level in the back swing before hitting the ball, or in the forward swing after hitting the ball. (904)
+This includes mock shots. A high swing is allowed if no other players are in the vicinity, and there is no risk of being hit. Waist level is considered the level of the waist when standing upright.
+4) When a field player uses any part of the stick, foot or lower leg, to play or try to play the ball above knee level. (904, 913) Stopping the ball with a thigh is not considered to be playing the ball above knee level. Knee level is considered the level of the knees when standing upright.
+5) When a field player places their stick, foot or leg between an opponent’s legs or feet. (905)
+6) When a player, in control of the ball, or trying to reach it, forces or pushes an opponent in any way other than shoulder to shoulder. (907)
+7) When a player, in control of the ball, trying to reach it, or trying to get a better position, moves backwards into an opponent, or prevents an opponent from moving in the direction intended. (908, 911)
+This includes when the attacking team prevents or obstructs the formation of a defence line at a free hit awarded within 3.5 m of the goalkeeper’s area.
+8) When a field player is in the goalkeeper area or in the area where the goal cage normally stands. (914)
+A field player is allowed to pass through the goalkeeper area if, in the referees’ opinion, play is not affected, and the goalkeeper’s actions are not hindered.
+If, when a free-hit for the opposing team is hit directly at the goal, a field player of the defending team is in the goalkeeper area, in the goal cage or, if the goal cage has been moved, in the area where the goal cage normally stands, a penalty shot shall always be awarded.
+A field player is considered to be in the goalkeeper area if any part of the body touches the floor inside the goalkeeper area. A field player with only the stick in the goalkeeper area is not considered to be in the goalkeeper area. The lines belong to the goalkeeper area.
+9) When a field player intentionally moves the opposing team’s goal cage. (914)
+10) When a field player passively obstructs the goalkeeper’s throw-out. (915)
+This shall be considered an offence only if the field player is inside the goal crease or closer to the goalkeeper than 3 m, measured from where the goalkeeper gains control of the ball. Passively implies unintentionally or through omission to move.
+11) When a field player jumps up and stops the ball. (916)
+Jumping is considered to be when both feet entirely leave the floor. Running is not considered as jumping. A player is allowed to jump over the ball as well as play, touch and stop the ball below knee level. Knee level is considered the level of the knees when standing upright.
+12) When a field player plays the ball from outside the rink. (no offence sign)
+Outside implies having one or both feet outside the rink. If a player plays the ball from outside the rink during substitution, this shall be considered too many players on the rink.
+If a player, not in the process of changing, plays the ball from the substitution zone, this shall be considered sabotage of play.
+It is allowed to run outside the rink, but the ball shall not be played from there.
+13) When a goalkeeper entirely leaves the goal crease during a throw-out. (917)
+In this case the goalkeeper is not considered a field player. The goalkeeper is considered to have entirely left the goal crease when no part of the body touches the floor in their goal crease. This rule shall also apply if the goalkeeper gathers the ball inside the goal crease and the entire body then slides outside the goal crease.
+The throw-out is completed when the goalkeeper lets go off the ball, and if they leave the goal crease after this, no action shall be taken. The lines belong to the goal crease.
+14) When a goalkeeper throws or kicks the ball over the centre line. (917)
+This shall be considered an offence only if the ball does not touch the floor, the board, another player or another player’s equipment before it passes the centre line. The entire ball has to pass the centre line.
+15) When a face-off, hit-in or a free-hit is incorrectly performed or intentionally delayed. (918)
+This includes when the non-offending team takes the ball away when the play is interrupted, the ball is dragged, flicked, or lifted on the stick and when any player delays a face-off.
+If a hit-in or a free-hit is taken from the wrong place or when the ball is not entirely still, it may be taken again. If, in the referees’ opinion, play is not affected, the ball does not have to be entirely still or in exactly the right place.
+16) When a goalkeeper has the ball under control for more than 3 seconds. (924)
+If the goalkeeper puts the ball down and picks it up again this shall be considered controlling the ball all the time.
+17) When a goalkeeper receives a pass, or takes the ball, from a field player in the same team. (924)
+This shall be considered an offence only if the ball, in the referees’ opinion, is played intentionally. Receiving implies that the goalkeeper touches the ball with either the hands or arms, also even after the goalkeeper has possibly touched or stopped the ball with any other part of the body. A goalkeeper may receive a pass from a player in the same team if the goalkeeper is completely outside the goal crease when receiving the pass and is thereby considered a field player. If the goalkeeper leaves the goal crease entirely, stops the ball, returns to the goal crease and picks the ball up this shall not be considered a pass to the goalkeeper.
+A pass to the goalkeeper is not considered a goal situation and can not result in a penalty shot.
+18) When a penalty is imposed during play (prescribed offence sign)
+The free-hit shall be taken where the offence was committed. If the referees are unable to decide where the offence occurred, the free-hit shall be taken at the nearest face-off dot, according to where the ball was at the interruption.
+19) When a player is guilty of passive play. (924)
+This includes when a field player, in order to waste time, places themself against the rink or goal cage in such a manner that the opponent is unable to reach the ball in a correct way. This also includes when the goalkeeper blocks the ball through the goal net. The player should, if possible, be made aware of this before any actions are taken.
+20) When a team is playing in a systematically passive way. (924)
+This includes when a team, in order to waste time, continuously or repeatedly plays behind their own imaginary extended goal line.
+The team should, if possible, be made aware of this before any actions are taken.
+21) When a field player plays the ball with the head. (921)
+22) When a delayed penalty is carried out because the offending team plays or takes control of the ball.
+The free-hit shall be taken at the nearest face-off dot, according to where the ball was at the interruption.
+508 Penalty shot (806)
+1) When an offence leading to a penalty shot is committed, a penalty shot shall be awarded to the non-offending team.
+2) The penalty shot shall be started with the stick and taken from the centre spot.
+The penalty shot starts from the referee’s whistle and ends with the next referee whistle.
+3) All players except the player taking the penalty shot and the defending goalkeeper shall be in their substitution zone during the entire penalty shot. The goalkeeper shall be in the goalkeeper area when the penalty shot starts.
+In case of a dispute the goalkeeper shall enter the rink first. The goalkeeper must not be replaced by a field player.
+If the goalkeeper commits an offence during the penalty shot, a new penalty shot shall be awarded, and any prescribed penalty carried out.
+If another player or member of the team staff in the offending team commits an offence during the penalty shot, a new penalty shot shall be awarded.
+If a player, except from the player taking the penalty shot, or member of the team staff in the non-offending team commits an offence during the penalty shot the penalty shot is considered incorrectly performed.
+4) The player taking the penalty shot may play the ball an unlimited number of times and shall follow a continuous movement towards the goal cage.
+Continuous implies that the player and the ball are not allowed to come to a full stop or change direction away from the goal cage simultaneously.
+As soon as the goalkeeper has touched the ball or the ball has touched the front face of the goal cage, the player must not touch the ball again during the penalty shot.
+If the ball hits the front face of the goal and without passing the imaginary extended goal line passes the goal line from the front, the goal shall be allowed. If the ball crosses the imaginary extended goal line, the penalty shot is over.
+Game time shall be stopped during the entire penalty shot.
+5) A player who has incurred a major bench penalty shall be on the penalty bench during the penalty shot.
+If a player incurs a match penalty the team captain shall choose a field player, who is not already penalised, to serve the bench penalty.
+509 Delayed penalty shot (807)
+1) A delayed penalty shot shall be applied when the non-offending team still controls the ball after an offence leading to a penalty shot, and the goal situation is still in progress.
+A delayed penalty shot may be caused by an offence leading to a penalty even if a delayed penalty is already in progress.
+During a delayed penalty shot each offence committed by the offending team and leading to a free-hit shall be penalised as repeated offences. Offences leading to penalties shall be penalised according to the offence. All penalties shall be served by the players having committed these.
+2) A delayed penalty shot implies that the non-offending team is given the possibility to continue the attack until the immediate goal situation is over.
+A delayed penalty shot shall still be carried out after the end of a period or a match.
+If the non-offending team scores correctly during a delayed penalty shot, the goal shall be allowed, and the penalty shot cancelled.
+510 Offences leading to a penalty shot
+1) When a goal situation is interrupted, or prevented from occurring, because the defending team has committed an offence leading to a free-hit or a penalty. (prescribed offence sign)
+The referees decide what shall be considered a goal situation. Offences in the goal crease shall not automatically lead to a penalty shot.
+A penalty shot shall always be awarded when the defending team, during a goal situation, intentionally moves the goal cage or intentionally plays with too many players on the rink.
+If, when a free-hit for the opposing team is hit directly at the goal, a field player of the defending team is in the goalkeeper area, in the goal cage or, if the goal cage has been moved, in the area where the goal cage normally stands, a penalty shot shall always be awarded.
+6 PENALTIES
+601 General regulations for penalties
+1) When an offence leading to a penalty is committed, the offender shall be penalised.
+If the referees are unable to point out the offender, or if the offence is committed by a member of the team staff, the team captain shall choose a field player, who is not already penalised, to serve the penalty. If the team captain refuses to do this, or is penalised, the referees shall choose the player.
+All penalties carried out shall be noted in the match record with the time, number of the player, type of penalty and cause of penalty. If the penalty is caused by an offence committed during an interruption, play shall be resumed according to what caused the interruption.
+A penalised team captain loses the right to speak to the referees unless addressed by them.
+2) A penalised player shall be on the penalty bench during the entire penalty.
+A player penalised during penalty shots after extra time shall not be placed on the penalty bench.
+A penalty, which has not expired at the end of regular game time, shall continue during extra time. After the extra time all penalties except match penalties are considered to be terminated.
+A penalised player shall be on the same side of the centre line as their own team, with the exception of when the secretariat and the penalty benches are situated on the same side of the rink as the substitution zones.
+During regular game time a penalised player may leave the penalty bench during an intermission. A penalised player shall not leave the penalty bench during the intermission between regular game time and extra time. A penalised player is not allowed to participate in a time out. A player, whose penalty expires, shall immediately leave the penalty bench, unless the number of penalties for the own team makes this impossible or the penalty expiring is a personal penalty. A goalkeeper, whose penalty expires, shall not leave the penalty bench until the next interruption.
+A penalised player who is injured may be replaced on the penalty bench by a field player who is not already penalised. Both players shall be noted in the match record with the number of the player actually serving the penalty in brackets. If the injured player enters the rink before the penalty expires, a match penalty will be imposed.
+If the secretariat is responsible for a player being admitted to the rink too soon and the mistake is noticed during regular penalty time, the player shall resume their position on the penalty bench. There shall not be any additional penalty time and the player shall return to the rink when the regular penalty time expires.
+3) If a goalkeeper incurs one or several minor bench penalties, the team captain shall choose a field player, who is not already penalised, to serve the penalty. A goalkeeper incurring a major bench penalty, or a personal penalty shall serve the penalty themself. If a goalkeeper incurs one or several minor bench penalties when serving penalties or in connection with a major bench penalty or a personal penalty, they shall serve these penalties themself.
+If a goalkeeper serves penalties and a reserve goalkeeper is not available, the team has a maximum of 3 minutes to properly equip a field player, but none of this time shall be used for warming up. The new goalkeeper shall be marked in the match record, and the time of the change shall be noted.
+When the penalty expires, the goalkeeper must not enter the rink until play is interrupted. Due to this the team captain shall choose a field player, who is not already penalised, to accompany the goalkeeper on the penalty bench in order to enter the rink when the bench penalty expires. Only the penalised player shall be noted in the match record. The referees shall together with the secretariat help a goalkeeper, whose penalty has expired during play, to leave the penalty bench as soon as play is interrupted.
+4) Penalty time shall be synchronised to game time.
+602 Delayed penalty (807)
+1) All penalties may be delayed. A delayed penalty shall be applied when the non-offending team still controls the ball after an offence leading to a penalty. Only one penalty at a time can be delayed except when a goal situation is in progress.
+2) A delayed penalty implies that the non-offending team is given the possibility to continue the attack until the offending team plays the ball, takes control of it or play is interrupted.
+A delayed penalty shall still be carried out after the end of a period or a match. If the delayed penalty is carried out because the offending team gains and controls the ball, play shall be resumed with a free-hit.
+The non-offending team shall use a delayed penalty for constructive attacking play. If the referees consider the team only to be trying to waste time, the players shall be notified. If the team still does not try to attack, play shall be interrupted, the delayed penalty carried out and play resumed with a face-off.
+If the delayed penalty is carried out because of any other interruption, play shall be resumed according to what caused the interruption.
+If the non-offending team scores in a correct way during a delayed penalty, the goal shall be allowed, and the delayed minor bench penalty last imposed on the team shall not be carried out. No other penalties shall be affected.
+If the offending team scores during a delayed penalty, the goal shall be disallowed, and play resumed with a face-off. If the nonoffending team scores an own goal, the goal shall be allowed.
+603 Bench penalty
+1) The duration of a bench penalty is 2 minutes.
+2) A bench penalty shall affect the team, and due to this the penalised player shall not be replaced on the rink during the penalty.
+3) No more than one bench penalty per player and two bench penalties per team shall be measured simultaneously.
+All bench penalties shall be measured in the order they are imposed. A player, whose penalty can not be measured, shall be on the penalty bench from the moment the penalty is carried out.
+If more than one penalty is imposed simultaneously on a team, the referees decide which of the new penalties shall be measured first. Shorter bench penalties shall, in this case, always be measured before longer.
+4) A team, which has more than two players with carried out bench penalties, shall still have the right to play with four players on the rink.
+The team shall play with four players on the rink until they have only one bench penalty being measured. A player, whose bench penalty expires before this, shall remain on the penalty bench until play is interrupted or, if this occurs sooner, further bench penalties expire so that the team has only one bench penalty being measured.
+All penalised players in a team shall leave the penalty bench in the same order as their bench penalties expire, but the rules concerning the number of players allowed on the rink shall be noticed all the time.
+The referees, together with the secretariat, shall help a player, whose penalty has expired during play, to leave the penalty bench as soon as play is interrupted.
+5) If a player, who has incurred a bench penalty, commits further offences leading to a penalty, all their penalties shall be served consecutively.
+This is regardless of whether the first penalty has started or not. If a bench penalty has already started and the same player incurs another penalty, the measuring of the first penalty shall not be affected but go on from where it was when the new penalty was carried out.
+Consecutively implies that as soon as the player’s first bench penalty expires or terminates, the next one shall start being measured, unless the team has other bench penalties, not yet being measured, which have been imposed in between the first player’s bench penalties.
+An unlimited number of bench penalties can be imposed on the same player. If a player has incurred a personal penalty, all these bench penalties have to expire or terminate before the personal penalty may start to be measured.
+If a player is serving a personal penalty, then incurs a bench penalty, the measuring of the remaining personal penalty shall, as soon as the bench penalty can be measured, be postponed until the bench penalty expires or terminates. The team captain shall choose a field player, who is not already penalised, to accompany the player on the penalty bench in order to enter the rink when the bench penalty expires. If a penalised player commits an offence leading to a match penalty, the rules concerning match penalties shall also be applied.
+6) If the opposing team scores during a bench penalty that is being measured, the penalty shall terminate, unless the opposing team is outnumbered on the rink or the teams play with equal strength.
+The penalty will not terminate if the goal is scored either during a delayed penalty or a delayed penalty shot or from a penalty shot.
+7) If a team has more than one bench penalty, these shall terminate in the same order they have been carried out.
+8) The offence leading to a penalty shot shall not result in a bench penalty unless the offence is a major bench penalty or a match penalty.
+All other offences committed shall be penalised according to the offence and no other penalties shall be affected.
+604 Minor bench penalty (808)
+1) A minor bench penalty consists of one bench penalty served by the player committing the offence.
+605 Offences leading to a minor bench penalty
+1) When a player, hits, blocks, lifts, kicks an opponent’s stick or hits the opponent’s body to gain a considerable advantage, or with no possibility of reaching the ball. (901, 902, 903, 912)
+2) When a player holds an opponent or opponent’s stick to gain a considerable advantage, or with no possibility of reaching the ball. (910)
+3) When a field player plays the ball above waist level with any part of their stick, foot or lower leg. (904, 913)
+Waist level is considered the level of the player’s waist when standing upright.
+4) When a player is guilty of careless play with the stick. (904) (909)
+This includes uncontrolled forward or backward swing of the stick and raising the stick above an opponent’s head if this is considered dangerous or disturbing for the opponent.
+5) When a player forces or pushes an opponent against the board or the goal cage. (907)
+6) When a player is guilty of careless physical play. (909)
+This includes when a player tackles, trips or obstructs an opponent in a careless manner.
+7) When a team captain requests measuring of a hook, control of the shaft/blade combination or the face mask grill and the controlled equipment is correct. (no offence sign)
+The team captain will serve the penalty.
+8) When a field player participates in play without a stick. (no offence sign)
+This includes when a player who dropped their stick on the rink substitutes without picking it up.
+This does not include a goalkeeper, temporarily considered a field player.
+9) When a field player in the rink fetches a stick from a place other than the team’s own substitution zone. (no offence sign)
+10) When a player intentionally moves to obstruct an opponent, who is not in control of the ball. (911)
+If a player who is trying to move into a better position backs into an opponent or prevents an opponent from moving in the direction intended, only a free-hit shall be awarded.
+11) When a field player actively obstructs the goalkeeper’s throw-out. (915)
+This shall be considered an offence only if the field player is inside the goal crease or closer to the goalkeeper than 3 m, measured from where the goalkeeper gains control of the ball. Actively implies following the goalkeeper sideways or trying to reach the ball with the stick.
+12) When a player violates the 3 m rule at a hit-in or a free-hit. (915)
+If the hit-in or the free-hit is performed while the opponents are trying to take position in a correct way, no action shall be taken. If a team forms a defence line which is not at a proper distance, only one player shall be penalised.
+13) When a field player, to gain a considerable advantage, lies or sits down and stops or plays the ball, or in another way affects the situation. (919)
+This also includes stopping or playing the ball with both knees or one hand on the floor, stick holding hand excluded.
+14) When a field player stops or plays the ball with their hand or arm. (920)
+15) When an incorrect substitution takes place. (922)
+The player leaving the rink has to be passing over the board before a new player may enter the rink. If the case is close, action shall only be taken if play is affected. It is also incorrect substitution when a player changes outside the team’s own substitution zone when play is interrupted. The player entering the rink is the one to be penalised.
+16) When a team plays with too many players on the rink. (922) Only one player shall be penalised.
+17) When a penalised player:
+Without entering the rink, leaves the penalty bench before their penalty expires or terminates.
+Refuses to leave the penalty bench when their penalty expires. Enters the rink during an interruption in the game, before their penalty expires or terminates. (925)
+The secretariat shall notify the referees of this as soon as possible. A player, whose penalty expires, shall not leave the penalty bench if the number of penalties for their own team makes this impossible or the penalty expiring is a personal penalty. A goalkeeper, whose penalty expires, shall not leave the penalty bench until the next interruption.
+If a penalised player enters the rink during play, this is considered sabotage of the game.
+18) When a team systematically disrupts play by committing repeated offences leading to a free-hit. (923)
+This also includes when a team commits a number of minor offences during a short time. The player committing the last offence shall serve the penalty. During a delayed penalty shot each offence committed by the offending team and leading to a free-hit shall be penalised as repeated offences. Offences leading to penalties shall be penalised according to the offence. All penalties shall be served by the players having committed these.
+19) When a player or a member of the team staff intentionally delays play. (924)
+This includes when a player or a member of the team staff of the offending team is striking or taking the ball away when play is interrupted, intentionally blocking the ball against the board or a goal or intentionally damaging the ball or a player of the defending team intentionally moves the goal cage.
+20) When a team intentionally delays play. (924)
+If the referees consider a team close to being penalised for delaying play, the team captain shall, if possible, be notified be fore any action is taken. The team captain shall choose a field player, who is not already penalised, to serve the penalty. This also applies when a team is late after intermission. At the end of the intermission the teams shall have at least four players ready for the game to be resumed and any penalised players shall be on the penalty bench.
+21) When a player or a member of the team staff protests against the referees’ decisions, or when coaching is performed in a disturbing or otherwise incorrect way. (925)
+This includes when the team captain constantly and without reason questions the referees’ decisions. Protesting against the referees’ decisions and coaching in a disturbing way is considered spontaneous and a minor offence compared to unsportsmanlike behaviour.
+This also applies if a member of the team staff enters the rink without the referees’ permission. The referee shall, if possible, notify the team staff before any action is taken.
+22) When a goalkeeper, despite summons from the referees, omits to put the goal cage back into position. (925)
+It is the goalkeeper’s responsibility to put the goal cage back as soon as this is considered possible.
+23) When a player, despite summons from the referees, omits to correct their personal equipment. (no offence sign)
+This includes when the administrating authority has decided that protective goggles are mandatory and a player despite summons from the referees omits to wear them correctly. This also includes when a player omits to pick up lost personal equipment at the next interruption.
+24) When a player, despite summons from the referee, omits to pick up their broken stick from the rink.
+The player who broke their stick is responsible for picking it up at the next interruption.
+However, anyone taking part in the game is allowed to remove it from the rink in a safe and controlled manner even during play.
+25) When a player uses incorrect clothing (no offence sign)
+Offences concerning clothing shall not lead to more than one penalty per team per match. Missing chest figures however shall only be reported to the administrating authority. The referee shall, if possible, notify the player before any action is taken.
+26) When a goalkeeper participates in play improperly equipped. (no offence sign)
+If the goalkeeper unintentionally loses their face mask play shall be interrupted and resumed with a face-off.
+606 Major bench penalty (808)
+1) A major bench penalty consists of two bench penalties served consecutively by the player committing the offence. If a major bench penalty is imposed in connection with a penalty shot or a delayed penalty shot, the rules concerning penalties in connection with a penalty shot shall also be applied.
+607 Offences leading to a major bench penalty
+1) When a field player is guilty of reckless play with the stick. (901)
+2) When a field player uses their stick to hook an opponent’s body. (906)
+3) When a player throws their stick or other equipment on the rink to hit or try to hit the ball. (909)
+4) When a player is guilty of reckless physical play. (909)
+This includes when a player tackles, throws or trips an opponent against the board or the goal cage, or otherwise attacks an opponent recklessly.
+608 Personal penalty
+1) A personal penalty can only be imposed in connection with a bench penalty and shall not be measured until the bench penalty expires or terminates. An unlimited number of personal penalties may be measured simultaneously.
+The team captain shall choose a field player, who is not already penalised, to serve the bench penalty and possible other bench penalties concerning the player or member of the team staff incurring the personal penalty. Only the penalised player or penalised team staff shall be noted in the match record.
+If a player, already serving a personal penalty, incurs a bench penalty, the measuring of the remaining personal penalty shall, as soon as the bench penalty can be measured, be postponed until the bench penalty expires or terminates.
+2) A personal penalty shall only affect the player, and due to this they may be replaced on the rink during the penalty. When the personal penalty expires, the player shall not enter the rink until play is interrupted. The referees shall, together with the secretariat, help a player, whose personal penalty has expired during play, to leave the penalty bench as soon as play is interrupted. A member of the team staff incurring a personal penalty shall be sent to the spectators’ stand for the rest of the match, and the team captain shall choose a field player, who is not already penalised, to serve the bench penalty.
+3) A player or a member of the team staff incurring a technical match penalty or a match penalty shall immediately go to the dressing room and must not take any further part in the match.
+The organiser is responsible for ensuring that the offender goes to the dressing room and does not return to the spectators’ stand or the rink during the remaining time of the match, possible extra time and penalty shots included. All match penalties shall be noted in the match record and a match penalty shall also be reported.
+Possible personal penalties concerning a player incurring a technical match penalty or match penalty shall terminate. If a player having received a technical match penalty or match penalty makes a further offence leading to a match penalty, the offence leading to a more severe penalty will be noted in the match record.
+A player or member of the team staff shall incur only one technical match penalty or match penalty per match with exception from a technical match penalty when not noted in the match record. Subsequent offences leading to a technical match penalty or match penalty shall be reported, but no further bench penalty shall be imposed with exception from a technical match penalty incurred for a player or member of team staff not noted in the match record.
+Offences committed before or after the match, which normally lead to a technical match penalty or match penalty, shall be reported, but no bench penalty shall be imposed. With the exception of incorrect equipment (which shall be corrected by the player concerned, who may then start the match), offences leading to a technical match penalty or match penalty committed before the match shall also lead to the offender’s non-participation in the match, possible extra time and penalty shots included.
+609 10-minute personal penalty (808)
+1) A 10-minute personal penalty can only be imposed in connection with a minor bench penalty.
+2) If the opposing team scores during a 10-minute personal penalty, the penalty shall not terminate.
+610 Offences leading to a 10-minute personal penalty
+1) When a player or a member of the team staff is guilty of unsportsmanlike behaviour. (925)
+Unsportsmanlike behaviour implies: Behaving in an insulting or unfair way towards referees, players, team staff, officials, spectators. Intentionally kicking, upsetting or hitting the board or the goal cage. Intentionally breaking a stick or other equipment. Throwing the stick or any other equipment, even during an interruption or in the substitution zone.
+2) When a player is guilty of simulating with the intention of deceiving the referees.
+This includes when a player is exaggerating or embellishing a fall, a hit or any other attack. Simulating to have been exposed to an offence or feigning an injury. A player committing an offence could still be penalised even if a player is guilty of simulating in the same situation.
+The administrating authority may decide to further punish simulating afterwards regardless of the action taken by the referees during the game.
+611 Technical match penalty (809)
+1) A technical match penalty can only be imposed in connection with a major bench penalty.
+2) Technical match penalty shall lead to suspension for the rest of the match and shall not lead to any further punishment for the player or member of the team staff.
+612 Offences leading to a technical match penalty
+1) When a field player uses a non-approved stick, a stick consisting of a blade and a shaft of two different brands or a stick with a hook which is too wide.
+When a goalkeeper uses an incorrect face mask. (no offence sign)
+A stick without approval mark is always considered to be nonapproved.
+2) When a player or a member of the team staff, not noted in the match record, participates in the match. (no offence sign)
+613 Match penalty (809)
+1) A match penalty can only be imposed in connection with a major bench penalty.
+2) Match penalty shall lead to suspension for the rest of the match and from the following match in the same competition and possible further punishment according to the conditions and routines set by the administrating authority.
+614 Offences leading to a match penalty
+1) When a player is guilty of continued or repeated unsportsmanlike behaviour. (925)
+The match penalty replaces the second 10-minute personal penalty as well as the minor bench penalty imposed in connection with it but shall still be followed by a major bench penalty. Continued implies in the same sequence and repeated for the second time in the same match.
+2) When a player breaks a stick or other equipment in a reckless or violent way. (925)
+3) When a player is guilty of violent physical play. (909)
+This includes when a player in a violent way tackles, throws or trips an opponent against the board or the goal cage, or otherwise attacks an opponent violently.
+4) When a player or a member of the team staff participates in a scuffle. (909)
+A scuffle implies a milder form of a fight, without punches or kicks, where the players involved respect attempts to separate them.
+5) When a player commits an offence leading to a major bench penalty, for the second time in the same match. (no offence sign)
+The match penalty replaces the second major bench penalty but shall still be followed by a major bench penalty.
+6) When a member of the team staff, is guilty of continued unsportsmanlike behaviour. (925)
+The match penalty replaces the second 10-minute personal penalty as well as the minor bench penalty imposed in connection with it, but shall still be followed by a major bench penalty
+7) When a player, whose equipment is about to be controlled, tries to correct or exchange the equipment before the control of the equipment. (925)
+8) When a player or a member of the team staff commits an offence clearly intending to sabotage play.
+This includes when:
+A penalised player intentionally enters the rink during play before their penalty expires or terminates. If the rink is entered during an interruption in play a minor bench penalty shall be imposed. If the secretariat is responsible for a player being admitted to the rink too soon, and the mistake is noticed during regular penalty time, the player shall resume their position on the penalty bench. There shall not be any additional penalty time and the player shall return to the rink when their regular penalty time expires. If the mistake is noticed after the regular penalty time has expired, no action shall be taken.
+An injured player, who has been replaced on the penalty bench, participates in play before their penalty time has expired. If a player, whose penalty has expired, enters the rink despite the numeric situation it can, depending on its cause, be considered to be ‘playing with too many players’.
+Offences are committed by either team from the substitution zone or penalty bench during a penalty shot.
+Equipment is thrown from the substitution zone during play.
+A player, not in the process of changing, takes part or tries to take part in play from the substitution zone. This includes also if player or team staff intentionally kicks the board outside of the rink so that play is affected.
+A player participates as a field player after having participated as a goalkeeper in the same game.
+A team intentionally has too many players on the rink.
+9) When a field player continues to use a defective stick or uses a strengthened or lengthened shaft. (no offence sign)
+10) When a player or a member of the team staff leaves the substitution bench or the penalty bench to engage in an altercation.
+Engaging implies when a player or a member of the team staff physically or verbally engages in an altercation with an opponent or approaches the referees during the altercation
+11) When a player or a member of the team staff is involved in a fight. (909)
+A player is considered to be involved in a fight when punching or kicking.
+12) When a player or a member of the team staff commits or tries to commit a brutal offence. (909)
+This also includes throwing a stick or other equipment at an opponent.
+13) When a player or a member of the team staff is guilty of rude misconduct. (925)
+Rude misconduct implies grossly insulting referees, players, team staff, officials or spectators.
+14) When a player or a member of the team staff is guilty of threatening conduct.
+Threatening conduct implies a deliberate impact on the physical integrity of a person without necessarily causing physical injury. This includes verbal threats, spitting at a player, physically confronting a referee or an official etc.
+7 GOALS 701 Allowed goals
+1) A goal shall be considered allowed when it has been correctly scored and confirmed with a face-off at the centre spot.
+All allowed goals shall be noted in the match record with the time and the numbers of the scoring and assisting players. An assisting player is considered a player of the same team directly involved in the scoring. Only one assist per goal shall be noted. A goal scored during extra time or from a penalty shot after a period or a match has ended shall not be confirmed with a face-off but shall be considered allowed when both referees have pointed at the centre spot and the goal has been noted in the match record.
+2) An allowed goal must not be disallowed after the face-off is made.
+If the referees are certain that an allowed goal is incorrect, this shall be reported.
+702 Correctly scored goals
+1) When the entire ball passes the goal line from the front, having been played in a correct way with a field player’s stick, and no offence leading to a free-hit or a penalty has been committed by the attacking team in connection with, or immediately before, the goal.
+This includes:
+When the goal cage is out of position and the ball passes the goal line from the front between the marks for the posts and below the imaginary position of the bar.
+When an own goal is scored. A goal is considered an own goal when a player actively with the stick or body plays or directs a ball clearly moving away from the goal line into the own goal. If the non-offending team scores an own goal during a delayed penalty, the goal shall be allowed.
+An own goal shall be noted as OG.
+2) When the entire ball passes the goal line from the front after a player in the defending team has directed the ball with their stick or body, or a player in the attacking team has unintentionally directed the ball with their body, and no offence leading to a free-hit or a penalty has been committed by the attacking team in connection with, or immediately before the goal.
+If a player has scored with an incorrect stick and the mistake is noticed only after the ball has passed the goal line, the goal shall be allowed.
+3) When a player who is not noted in the match record is involved in the scoring of a goal.
+Involved implies scoring or assisting.
+703 Incorrectly scored goals
+1) When a player in the attacking team has committed an offence leading to a free-hit or a penalty in connection with, or immediately before, the goal. (prescribed offence sign)
+This includes when a team scores with too many players or a penalised player on the rink, and when a player in the attacking team intentionally moves the goal cage out of position.
+2) When a player in the attacking team intentionally kicks or directs the ball with any part of their body and the ball goes into the goal even after having touched an opponent, an opponent’s equipment or a player in the attacking team.
+Since this is not considered an offence, play shall be resumed with a face-off.
+3) When the ball passes the goal line during, or after, a signal.
+4) When the ball goes into the goal cage without passing the goal line from the front.
+5) When a goalkeeper throws or kicks the ball into the opposing team’s goal even if the ball touched an opponent, an opponent’s equipment or a player in the attacking team.
+Since this is not considered an offence, play shall be resumed with a face-off.
+6) When the offending team scores during a delayed penalty.
+The penalty shall be carried out and play resumed with a face-off.
